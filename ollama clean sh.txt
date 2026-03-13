@@ -22,4 +22,5 @@ sudo docker run -d \
   --restart always \
   ghcr.io/open-webui/open-webui:main
 
+ipconfig (to get your ip address)
 Go To http://<ip add>:8080/
